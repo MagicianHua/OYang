@@ -3,10 +3,11 @@
   <groupId>org.oyang.live.wallpaper.api</groupId>
   <artifactId>OLiveSDK</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>1.0.2</release>
     <versions>
       <version>1.0.1</version>
+      <version>1.0.2</version>
     </versions>
-    <lastUpdated>20210730084245</lastUpdated>
+    <lastUpdated>20210730121250</lastUpdated>
   </versioning>
 </metadata>
